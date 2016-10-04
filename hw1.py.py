@@ -38,4 +38,12 @@ while count3!=finish:
     else:
         print"wrong key"
         break
-print "\ncompleted"            
+print "\ncompleted"        
+
+''' 
+1. Mention controls for the game before the game is started!
+ex. Press D to move right
+2. Mention when we are supposed to turn down or right.
+3. Print time in which game is completed.
+4. Print z properly
+'''
